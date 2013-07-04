@@ -1,0 +1,15 @@
+# Eclipse
+/.classpath
+/.project
+/.settings/
+
+# Build and test
+/.gradle/
+/bin/
+/build/
+
+# Confidental config
+/src/main/resources/config/*.properties
+
+#Mac
+*.DS_Store
